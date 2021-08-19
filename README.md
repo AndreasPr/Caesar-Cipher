@@ -1,3 +1,3 @@
-# Caesar Cipher-Algorithm
+# Caesar Cipher Algorithm
 
 Implemented in Java
